@@ -9,6 +9,7 @@
     "audio-encoder": "^1.0.4",
     "audio-resampler": "^1.0.1",
     "audiomaker": "^1.0.3",
+    "dsp.js": "^1.0.1",
     "file-saver": "^2.0.5",
     "lamejs": "^1.2.0",
     "mp3-cutter": "^1.0.6",
@@ -17,6 +18,7 @@
     "react-scripts": "5.0.1",
     "readable-stream": "^4.3.0",
     "stream": "^0.0.2",
+    "tone": "^14.8.26",
     "wavesurfer.js": "^6.6.3",
     "web-vitals": "^2.1.4"
   },
